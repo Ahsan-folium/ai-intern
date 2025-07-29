@@ -1,0 +1,8 @@
+# Ignore virtual environment folder
+ai-intern/
+
+# Ignore environment files
+.env
+
+# Ignore VS Code settings (optional)
+.vscode/
