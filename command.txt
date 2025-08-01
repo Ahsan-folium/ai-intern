@@ -1,1 +1,2 @@
-pyenv activate ai-intern
+ai-intern\Scripts\activate.bat
+paste in terminal
