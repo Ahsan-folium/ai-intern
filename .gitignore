@@ -13,4 +13,4 @@ basics/
 # ingore command.txt file
 command.txt
 
-requirements.txt
+/requirements.txt
