@@ -11,4 +11,5 @@
 Install dependencies using:
 
 ```bash
+cd /src/main
 pip install -r requirements.txt
