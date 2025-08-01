@@ -14,3 +14,6 @@ basics/
 command.txt
 
 /requirements.txt
+
+# add python cache files in /src/main/
+src/main/__pycache__/
