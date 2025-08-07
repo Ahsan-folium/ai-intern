@@ -2,6 +2,7 @@ import pandas as pd
 from data_cleaning_helpers import fill_age_with_mean, fill_embarked_with_mode, drop_missing_cabin, encode_sex
 
 def test_fill_age_with_mean():
+    # create a test df with some missing ages
     df = pd.DataFrame({'Age': [22, None, 30]})
     df_clean = fill_age_with_mean(df.copy())
     assert df_clean['Age'].isnull().sum() == 0
