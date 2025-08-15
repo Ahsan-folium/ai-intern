@@ -1,5 +1,3 @@
-# Key Takeaways
-
 ## Framing
 
 1. Clearly identify the **input features** and **target label** before starting and Choose the right **type of ML task**: use regression for continuous predictions (e.g., prices) and classification for discrete predictions (e.g., spam/not spam) and how to measure the success
